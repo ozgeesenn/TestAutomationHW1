@@ -1,1 +1,1 @@
-# TestAutomationHW1
+README dosyasinda degisiklik yapildi
